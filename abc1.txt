@@ -4,6 +4,6 @@
 <title>sample program</title>
 </head>
 <body>
-hello everyone
+hello
 </body>
 </html>
